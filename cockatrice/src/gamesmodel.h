@@ -100,7 +100,6 @@ private:
     static const bool DEFAULT_SHOW_PASSWORD_PROTECTED_GAMES = true;
     static const bool DEFAULT_SHOW_BUDDIES_ONLY_GAMES = true;
     static const bool DEFAULT_HIDE_IGNORED_USER_GAMES = false;
-    static const int SPINBOX_OR_COMBOBOX_OFF = -1;
     static const int DEFAULT_MAX_PLAYERS_MIN = 1;
     static const int DEFAULT_MAX_PLAYERS_MAX = 99;
     static const MaxGameAge DEFAULT_MAX_GAME_AGE = TWO_HOURS;
